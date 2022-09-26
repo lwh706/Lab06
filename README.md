@@ -1,2 +1,2 @@
 # Lab06
-MQ,TCP,telegram
+MQ, TCP telegram
